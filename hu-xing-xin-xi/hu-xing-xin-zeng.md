@@ -1,4 +1,4 @@
-* [ ] ### 概述
+### 概述
 
 ```
 
@@ -7,37 +7,33 @@
 ### 服务全类名
 
 ```
-com.oceano.web.serviceimpl.building.BuildingService.delete
+
 ```
 
 ### 请求参数
 
 | 参数 | 必填 | 说明 | 示例 |
 | :--- | :--- | :--- | :--- |
-| buildingId | 是 | 楼盘ID |  |
+| Image | 是 | 楼盘图片实体类 | 1 |
+| 1 | 否 | 楼盘标签实体类 | 1 |
+| 1 | 1 | 1 | 1 |
 
 ### 响应结果
 
 | 名称 | 类型 | 必填 | 说明 |
 | :--- | :--- | :--- | :--- |
-| boolean | 布尔类型 | 是 | true:成功 false:失败 |
+| 1 | 1 | 1 | 1 |
+| 1 | 1 | 1 | 1 |
 
 ### 调用示例
 
 ```
-buildingService.delete(buildingId);
+
 ```
 
 ### 响应结果备注
 
 ```
-如
-  [
-     {
-	True	正确
-        false	错误
-     }
- ]
 
 ```
 
