@@ -31,5 +31,17 @@ com.oceano.web.serviceimpl.building.BuildingService.save
 
 ```
 
+### 响应结果备注
+
+```
+如
+  [
+     {
+    True    正确
+        false    错误
+     }
+  ]
+```
+
 
 

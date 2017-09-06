@@ -1,7 +1,7 @@
-* [ ] ### 概述
+### 概述
 
 ```
-
+楼盘基础信息及对应的图片信息、标签信息删除服务
 ```
 
 ### 服务全类名
@@ -34,11 +34,10 @@ buildingService.delete(buildingId);
 如
   [
      {
-	True	正确
-        false	错误
+    True    正确
+        false    错误
      }
  ]
-
 ```
 
 
